@@ -1,0 +1,11 @@
+Edits, additions and deletions welcome.
+
+md style guide:
+
+- Don't exceed 80 char width
+- One sentence per line, if needed you can subdivide at commas, phrases, etc.
+- If you want a paragraph don't include an extra new line.
+- Except for sentences in paragraphs, you must include and extra new line.
+- Spellcheck before committing changes, locale 'en_us'.
+- All sentences must end in punctuation mark except for headers.
+- For headers use proper title capitalization.
